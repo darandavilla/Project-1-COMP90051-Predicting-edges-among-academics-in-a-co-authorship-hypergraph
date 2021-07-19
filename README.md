@@ -16,3 +16,5 @@ The LightGBM model implemented scored the highest AUC of 85% in the final Kaggle
 and node embeddings as features. In order to prevent overfitting, we sampled a set of edges and removed those edges from the graph before training the classifier.
 
 Future avenues for research into Graph Convolutional Networks and other Deep Learning models would certainly improve the performance of the link prediction task, by leveraging node and edge features as well as using the node embeddings available from such frameworks. A Graph Convolutional Network, if implemented, would have been capable of representing the graph topology and local node information in a highly accurate manner.
+
+Project specs and reports can be found in our pdf files.
