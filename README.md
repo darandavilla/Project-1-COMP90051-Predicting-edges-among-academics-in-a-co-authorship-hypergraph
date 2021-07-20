@@ -1,4 +1,4 @@
-# Project-1-SML
+# SML_COMP90051_S1_2021_Assignment1
 Statistical Machine Learning UoM - Assignment 1 - S1 2021
 
 Project 1: Predicting edges among academics in a co-authorship hypergraph
